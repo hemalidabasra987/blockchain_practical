@@ -2,9 +2,9 @@ pragrma solidity ^0.6.0;
 
 contract SimpleStorage {
     //int256 id = 1;
-    //int256 Userid = 12;
+    //int256 Userid = 43;
     //bool status = true;
-    //string name = "Drashti";
+    //string name = "Hemali";
     //address useraddress = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
     //bytes64
 
